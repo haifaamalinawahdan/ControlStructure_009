@@ -8,3 +8,5 @@ elif angka2>angka1 and angka2>angka3:
     print("Angka kedua adalah yang terbesar")
 elif angka3>angka1 and angka3>angka2:
     print("angka ketiga adalah yang terbesar")
+else:
+    print("tidak ada angka yang terbesar")
